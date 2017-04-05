@@ -1,7 +1,2 @@
-er-agent: *
-Allow: /
-Allow: /2017/
-Disallow: /assets/
-
 Sitemap: http://xiongan.blog/sitemap.xml
 Sitemap: http://xiongan.blog/baidusitemap.xml
